@@ -1,0 +1,138 @@
+{
+  "quiz_id": "quiz_6c8201878050",
+  "domain": "Engineering",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "What is the SI unit for force?",
+      "options": [
+        "Joule",
+        "Watt",
+        "Newton",
+        "Pascal"
+      ],
+      "correct_answer": "Newton",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 2,
+      "question": "A resistor has a resistance of 10 ohms and a current of 2 amperes flows through it. What is the voltage across the resistor according to Ohm's Law (V=IR)?",
+      "options": [
+        "5 Volts",
+        "20 Volts",
+        "12 Volts",
+        "0.5 Volts"
+      ],
+      "correct_answer": "20 Volts",
+      "category": "Problem-solving",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 3,
+      "question": "Which of the following is a renewable energy source?",
+      "options": [
+        "Coal",
+        "Natural Gas",
+        "Solar Power",
+        "Nuclear Energy"
+      ],
+      "correct_answer": "Solar Power",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 4,
+      "question": "If a car travels 100 kilometers in 2 hours, what is its average speed?",
+      "options": [
+        "50 km/h",
+        "200 km/h",
+        "100 km/h",
+        "2 km/h"
+      ],
+      "correct_answer": "50 km/h",
+      "category": "Analytical",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 5,
+      "question": "What type of material is typically used for the core of an electromagnet?",
+      "options": [
+        "Aluminum",
+        "Copper",
+        "Iron",
+        "Plastic"
+      ],
+      "correct_answer": "Iron",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 6,
+      "question": "A bridge designed to span a wide river would most likely utilize which structural concept to distribute load?",
+      "options": [
+        "Cantilever",
+        "Truss",
+        "Arch",
+        "Suspension"
+      ],
+      "correct_answer": "Truss",
+      "category": "Practical Application",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 7,
+      "question": "Which of the following statements about electrical circuits is true?",
+      "options": [
+        "Current flows from negative to positive.",
+        "Voltage is the flow of electrons.",
+        "Resistance opposes the flow of current.",
+        "A short circuit has very high resistance."
+      ],
+      "correct_answer": "Resistance opposes the flow of current.",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 8,
+      "question": "A digital camera converts light into electrical signals. This is an example of what type of conversion?",
+      "options": [
+        "Mechanical to Electrical",
+        "Chemical to Electrical",
+        "Light to Electrical",
+        "Heat to Electrical"
+      ],
+      "correct_answer": "Light to Electrical",
+      "category": "Analytical",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 9,
+      "question": "If you have a lever with a fulcrum, a load, and an effort, which of these principles is fundamental to its operation?",
+      "options": [
+        "Centrifugal Force",
+        "Momentum",
+        "Torque",
+        "Buoyancy"
+      ],
+      "correct_answer": "Torque",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 10,
+      "question": "A mechanic needs to tighten a bolt. Which tool would typically provide the most leverage for tightening?",
+      "options": [
+        "Screwdriver",
+        "Pliers",
+        "Wrench",
+        "Hammer"
+      ],
+      "correct_answer": "Wrench",
+      "category": "Practical Application",
+      "difficulty": "easy"
+    }
+  ],
+  "created_at": "2025-12-24T10:56:28.332297",
+  "total_questions": 10
+}

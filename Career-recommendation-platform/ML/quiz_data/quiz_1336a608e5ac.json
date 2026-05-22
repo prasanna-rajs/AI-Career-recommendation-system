@@ -1,0 +1,138 @@
+{
+  "quiz_id": "quiz_1336a608e5ac",
+  "domain": "Information Technology",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "What does the acronym 'CPU' stand for in computing?",
+      "options": [
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Program Utility",
+        "Control Processing Unit"
+      ],
+      "correct_answer": "Central Processing Unit",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 2,
+      "question": "Which of the following is a common type of computer memory that loses its data when the power is turned off?",
+      "options": [
+        "RAM",
+        "ROM",
+        "SSD",
+        "HDD"
+      ],
+      "correct_answer": "RAM",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 3,
+      "question": "If a website address starts with 'https://' instead of 'http://', what does the 's' typically indicate?",
+      "options": [
+        "Secure connection",
+        "Simple protocol",
+        "Standard format",
+        "Server access"
+      ],
+      "correct_answer": "Secure connection",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 4,
+      "question": "You are trying to connect to a Wi-Fi network, but your device says 'Incorrect password'. What is the most likely cause?",
+      "options": [
+        "You entered the wrong password",
+        "The Wi-Fi signal is too weak",
+        "The network is out of range",
+        "Your device has a hardware problem"
+      ],
+      "correct_answer": "You entered the wrong password",
+      "category": "Problem-solving",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 5,
+      "question": "Which operating system is known for its open-source nature and is often used on servers?",
+      "options": [
+        "Linux",
+        "Windows",
+        "macOS",
+        "Android"
+      ],
+      "correct_answer": "Linux",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 6,
+      "question": "A program that allows you to view and interact with websites is called a:",
+      "options": [
+        "Web browser",
+        "Search engine",
+        "Text editor",
+        "Database"
+      ],
+      "correct_answer": "Web browser",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 7,
+      "question": "You have a file that is too large to email. What is a common way to share it online?",
+      "options": [
+        "Use a cloud storage service (e.g., Google Drive, Dropbox)",
+        "Compress the file into a smaller format",
+        "Save it as a PDF document",
+        "Print it and mail it"
+      ],
+      "correct_answer": "Use a cloud storage service (e.g., Google Drive, Dropbox)",
+      "category": "Practical application",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 8,
+      "question": "What is the primary function of an antivirus software?",
+      "options": [
+        "To detect and remove malicious software (malware)",
+        "To speed up your internet connection",
+        "To organize your files",
+        "To create new software programs"
+      ],
+      "correct_answer": "To detect and remove malicious software (malware)",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 9,
+      "question": "If your computer is running very slowly, and you have many programs open, what is a simple step you can take to try and improve performance?",
+      "options": [
+        "Close unnecessary programs",
+        "Restart the computer",
+        "Delete all your files",
+        "Turn off the internet"
+      ],
+      "correct_answer": "Close unnecessary programs",
+      "category": "Problem-solving",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 10,
+      "question": "Which of the following best describes a 'firewall' in IT security?",
+      "options": [
+        "A barrier that monitors and controls incoming and outgoing network traffic",
+        "A type of data encryption",
+        "A method for backing up files",
+        "A tool for cleaning computer hardware"
+      ],
+      "correct_answer": "A barrier that monitors and controls incoming and outgoing network traffic",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    }
+  ],
+  "created_at": "2026-03-11T10:43:06.658978",
+  "total_questions": 10
+}

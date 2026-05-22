@@ -1,0 +1,138 @@
+{
+  "quiz_id": "quiz_30e6c038be22",
+  "domain": "Information Technology",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "What is the primary function of an operating system?",
+      "options": [
+        "To run application software",
+        "To manage hardware resources and provide a platform for software",
+        "To browse the internet",
+        "To create documents"
+      ],
+      "correct_answer": "To manage hardware resources and provide a platform for software",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 2,
+      "question": "Which of the following is a common type of network cable?",
+      "options": [
+        "HDMI cable",
+        "USB cable",
+        "Ethernet cable",
+        "Audio cable"
+      ],
+      "correct_answer": "Ethernet cable",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 3,
+      "question": "You are trying to connect to a website, but it's not loading. What is the first thing you should check?",
+      "options": [
+        "If your computer is turned on",
+        "If your internet connection is working",
+        "If you have enough RAM",
+        "If you have a printer connected"
+      ],
+      "correct_answer": "If your internet connection is working",
+      "category": "Problem-solving",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 4,
+      "question": "What does 'URL' stand for?",
+      "options": [
+        "Uniform Resource Locator",
+        "Unique Retrieval Link",
+        "Universal Registry List",
+        "User Request Log"
+      ],
+      "correct_answer": "Uniform Resource Locator",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 5,
+      "question": "If a program is running slowly, which of the following might be a cause?",
+      "options": [
+        "Too much free disk space",
+        "Not enough RAM",
+        "A weak Wi-Fi signal",
+        "An outdated printer driver"
+      ],
+      "correct_answer": "Not enough RAM",
+      "category": "Analytical",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 6,
+      "question": "What is the purpose of a firewall?",
+      "options": [
+        "To speed up internet connections",
+        "To protect a network from unauthorized access",
+        "To store large files",
+        "To print documents"
+      ],
+      "correct_answer": "To protect a network from unauthorized access",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 7,
+      "question": "You have a document that needs to be shared with multiple people digitally. Which file format is most commonly used for this purpose?",
+      "options": [
+        ".docx",
+        ".txt",
+        ".pdf",
+        ".exe"
+      ],
+      "correct_answer": ".pdf",
+      "category": "Practical Application",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 8,
+      "question": "Which of the following is an example of cloud storage?",
+      "options": [
+        "A USB flash drive",
+        "An external hard drive",
+        "Google Drive",
+        "A CD-ROM"
+      ],
+      "correct_answer": "Google Drive",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 9,
+      "question": "You notice that your computer has suddenly become very slow and is displaying unusual pop-up advertisements. What could be the cause?",
+      "options": [
+        "A software update",
+        "A virus or malware infection",
+        "Too many programs open",
+        "A full recycle bin"
+      ],
+      "correct_answer": "A virus or malware infection",
+      "category": "Problem-solving",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 10,
+      "question": "What is the term for a step-by-step set of instructions designed to perform a specific task?",
+      "options": [
+        "Algorithm",
+        "Database",
+        "Operating System",
+        "Browser"
+      ],
+      "correct_answer": "Algorithm",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    }
+  ],
+  "created_at": "2025-12-24T11:01:44.669070",
+  "total_questions": 10
+}

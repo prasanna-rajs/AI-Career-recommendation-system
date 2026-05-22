@@ -1,0 +1,138 @@
+{
+  "quiz_id": "quiz_00ebfa730e45",
+  "domain": "Engineering",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "What is the SI unit of force?",
+      "options": [
+        "Joule",
+        "Watt",
+        "Newton",
+        "Pascal"
+      ],
+      "correct_answer": "Newton",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 2,
+      "question": "If a car travels 100 km in 2 hours, what is its average speed?",
+      "options": [
+        "25 km/h",
+        "50 km/h",
+        "75 km/h",
+        "100 km/h"
+      ],
+      "correct_answer": "50 km/h",
+      "category": "Problem-solving",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 3,
+      "question": "Which of the following is a renewable energy source?",
+      "options": [
+        "Coal",
+        "Natural Gas",
+        "Solar Power",
+        "Nuclear Energy"
+      ],
+      "correct_answer": "Solar Power",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 4,
+      "question": "What does Ohm's Law state?",
+      "options": [
+        "Voltage is directly proportional to resistance",
+        "Current is directly proportional to voltage and inversely proportional to resistance",
+        "Power is equal to voltage times current",
+        "Resistance is the sum of voltage and current"
+      ],
+      "correct_answer": "Current is directly proportional to voltage and inversely proportional to resistance",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 5,
+      "question": "A lever that has the fulcrum between the effort and the load is called a:",
+      "options": [
+        "First-class lever",
+        "Second-class lever",
+        "Third-class lever",
+        "Inclined plane"
+      ],
+      "correct_answer": "First-class lever",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 6,
+      "question": "Which geometric shape has the most stable base?",
+      "options": [
+        "Triangle",
+        "Square",
+        "Circle",
+        "Rectangle"
+      ],
+      "correct_answer": "Triangle",
+      "category": "Analytical",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 7,
+      "question": "If you have a resistance of 10 ohms and a current of 2 amperes flowing through it, what is the voltage across the resistor?",
+      "options": [
+        "5 V",
+        "12 V",
+        "20 V",
+        "2.5 V"
+      ],
+      "correct_answer": "20 V",
+      "category": "Problem-solving",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 8,
+      "question": "What is the primary function of a resistor in an electrical circuit?",
+      "options": [
+        "To increase voltage",
+        "To store electrical energy",
+        "To limit the flow of current",
+        "To generate electricity"
+      ],
+      "correct_answer": "To limit the flow of current",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 9,
+      "question": "A bridge is designed to span a river. Which engineering discipline would be most directly involved in its design?",
+      "options": [
+        "Mechanical Engineering",
+        "Civil Engineering",
+        "Electrical Engineering",
+        "Chemical Engineering"
+      ],
+      "correct_answer": "Civil Engineering",
+      "category": "Practical application",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 10,
+      "question": "What does the Bernoulli's principle relate?",
+      "options": [
+        "Heat and temperature",
+        "Pressure, velocity, and elevation of a fluid",
+        "The strength of materials",
+        "The efficiency of engines"
+      ],
+      "correct_answer": "Pressure, velocity, and elevation of a fluid",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    }
+  ],
+  "created_at": "2025-12-24T10:47:50.556466",
+  "total_questions": 10
+}

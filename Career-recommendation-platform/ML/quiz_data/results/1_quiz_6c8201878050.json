@@ -1,0 +1,85 @@
+{
+  "user_id": "1",
+  "quiz_id": "quiz_6c8201878050",
+  "evaluation": {
+    "quiz_id": "quiz_6c8201878050",
+    "total_questions": 10,
+    "correct_answers": 4,
+    "wrong_answers": 6,
+    "score": 4,
+    "performance_percentage": 40.0,
+    "question_feedback": [
+      {
+        "question_id": 1,
+        "question": "What is the SI unit for force?",
+        "correct_answer": "Newton",
+        "user_answer": "Newton",
+        "is_correct": true
+      },
+      {
+        "question_id": 2,
+        "question": "A resistor has a resistance of 10 ohms and a current of 2 amperes flows through it. What is the voltage across the resistor according to Ohm's Law (V=IR)?",
+        "correct_answer": "20 Volts",
+        "user_answer": "20 Volts",
+        "is_correct": true
+      },
+      {
+        "question_id": 3,
+        "question": "Which of the following is a renewable energy source?",
+        "correct_answer": "Solar Power",
+        "user_answer": "",
+        "is_correct": false
+      },
+      {
+        "question_id": 4,
+        "question": "If a car travels 100 kilometers in 2 hours, what is its average speed?",
+        "correct_answer": "50 km/h",
+        "user_answer": "",
+        "is_correct": false
+      },
+      {
+        "question_id": 5,
+        "question": "What type of material is typically used for the core of an electromagnet?",
+        "correct_answer": "Iron",
+        "user_answer": "",
+        "is_correct": false
+      },
+      {
+        "question_id": 6,
+        "question": "A bridge designed to span a wide river would most likely utilize which structural concept to distribute load?",
+        "correct_answer": "Truss",
+        "user_answer": "",
+        "is_correct": false
+      },
+      {
+        "question_id": 7,
+        "question": "Which of the following statements about electrical circuits is true?",
+        "correct_answer": "Resistance opposes the flow of current.",
+        "user_answer": "",
+        "is_correct": false
+      },
+      {
+        "question_id": 8,
+        "question": "A digital camera converts light into electrical signals. This is an example of what type of conversion?",
+        "correct_answer": "Light to Electrical",
+        "user_answer": "Light to Electrical",
+        "is_correct": true
+      },
+      {
+        "question_id": 9,
+        "question": "If you have a lever with a fulcrum, a load, and an effort, which of these principles is fundamental to its operation?",
+        "correct_answer": "Torque",
+        "user_answer": "Buoyancy",
+        "is_correct": false
+      },
+      {
+        "question_id": 10,
+        "question": "A mechanic needs to tighten a bolt. Which tool would typically provide the most leverage for tightening?",
+        "correct_answer": "Wrench",
+        "user_answer": "Wrench",
+        "is_correct": true
+      }
+    ]
+  },
+  "submitted_at": "2025-12-24T10:56:58.654264"
+}

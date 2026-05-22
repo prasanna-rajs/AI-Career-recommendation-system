@@ -1,0 +1,138 @@
+{
+  "quiz_id": "quiz_061bf9429e6e",
+  "domain": "Engineering",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "What is the SI unit of force?",
+      "options": [
+        "Joule",
+        "Watt",
+        "Newton",
+        "Pascal"
+      ],
+      "correct_answer": "Newton",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 2,
+      "question": "A car travels 100 kilometers in 2 hours. What is its average speed?",
+      "options": [
+        "20 km/h",
+        "50 km/h",
+        "100 km/h",
+        "200 km/h"
+      ],
+      "correct_answer": "50 km/h",
+      "category": "Problem-solving",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 3,
+      "question": "Which of the following is a renewable energy source?",
+      "options": [
+        "Coal",
+        "Natural Gas",
+        "Solar Power",
+        "Nuclear Energy"
+      ],
+      "correct_answer": "Solar Power",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 4,
+      "question": "If you have a circuit with a 12V battery and a 6-ohm resistor, what is the current flowing through the resistor? (Ohm's Law: V = I * R)",
+      "options": [
+        "0.5 A",
+        "2 A",
+        "6 A",
+        "12 A"
+      ],
+      "correct_answer": "2 A",
+      "category": "Analytical",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 5,
+      "question": "What is the primary function of a transistor in an electronic circuit?",
+      "options": [
+        "To store energy",
+        "To amplify or switch electronic signals",
+        "To generate heat",
+        "To measure voltage"
+      ],
+      "correct_answer": "To amplify or switch electronic signals",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 6,
+      "question": "A bridge is an example of which type of engineering structure?",
+      "options": [
+        "Mechanical",
+        "Civil",
+        "Electrical",
+        "Chemical"
+      ],
+      "correct_answer": "Civil",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 7,
+      "question": "If the area of a rectangle is 50 square meters and its width is 5 meters, what is its length?",
+      "options": [
+        "10 meters",
+        "15 meters",
+        "25 meters",
+        "50 meters"
+      ],
+      "correct_answer": "10 meters",
+      "category": "Problem-solving",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 8,
+      "question": "Which of the following materials is known for its high tensile strength and is commonly used in construction?",
+      "options": [
+        "Plastic",
+        "Wood",
+        "Steel",
+        "Glass"
+      ],
+      "correct_answer": "Steel",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 9,
+      "question": "You are designing a simple lever to lift a heavy object. To make it easier, you should:",
+      "options": [
+        "Increase the distance from the fulcrum to the effort",
+        "Decrease the distance from the fulcrum to the effort",
+        "Increase the distance from the fulcrum to the load",
+        "Make the effort and load distances equal"
+      ],
+      "correct_answer": "Increase the distance from the fulcrum to the effort",
+      "category": "Practical application",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 10,
+      "question": "What does 'CAD' stand for in engineering?",
+      "options": [
+        "Computer-Aided Design",
+        "Centralized Application Development",
+        "Component Analysis Diagram",
+        "Circuitry Automation Device"
+      ],
+      "correct_answer": "Computer-Aided Design",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    }
+  ],
+  "created_at": "2025-12-24T10:49:03.984282",
+  "total_questions": 10
+}

@@ -1,0 +1,85 @@
+{
+  "user_id": "1",
+  "quiz_id": "quiz_30e6c038be22",
+  "evaluation": {
+    "quiz_id": "quiz_30e6c038be22",
+    "total_questions": 10,
+    "correct_answers": 4,
+    "wrong_answers": 6,
+    "score": 4,
+    "performance_percentage": 40.0,
+    "question_feedback": [
+      {
+        "question_id": 1,
+        "question": "What is the primary function of an operating system?",
+        "correct_answer": "To manage hardware resources and provide a platform for software",
+        "user_answer": "To manage hardware resources and provide a platform for software",
+        "is_correct": true
+      },
+      {
+        "question_id": 2,
+        "question": "Which of the following is a common type of network cable?",
+        "correct_answer": "Ethernet cable",
+        "user_answer": "Ethernet cable",
+        "is_correct": true
+      },
+      {
+        "question_id": 3,
+        "question": "You are trying to connect to a website, but it's not loading. What is the first thing you should check?",
+        "correct_answer": "If your internet connection is working",
+        "user_answer": "If you have enough RAM",
+        "is_correct": false
+      },
+      {
+        "question_id": 4,
+        "question": "What does 'URL' stand for?",
+        "correct_answer": "Uniform Resource Locator",
+        "user_answer": "Universal Registry List",
+        "is_correct": false
+      },
+      {
+        "question_id": 5,
+        "question": "If a program is running slowly, which of the following might be a cause?",
+        "correct_answer": "Not enough RAM",
+        "user_answer": "A weak Wi-Fi signal",
+        "is_correct": false
+      },
+      {
+        "question_id": 6,
+        "question": "What is the purpose of a firewall?",
+        "correct_answer": "To protect a network from unauthorized access",
+        "user_answer": "To store large files",
+        "is_correct": false
+      },
+      {
+        "question_id": 7,
+        "question": "You have a document that needs to be shared with multiple people digitally. Which file format is most commonly used for this purpose?",
+        "correct_answer": ".pdf",
+        "user_answer": ".pdf",
+        "is_correct": true
+      },
+      {
+        "question_id": 8,
+        "question": "Which of the following is an example of cloud storage?",
+        "correct_answer": "Google Drive",
+        "user_answer": "Google Drive",
+        "is_correct": true
+      },
+      {
+        "question_id": 9,
+        "question": "You notice that your computer has suddenly become very slow and is displaying unusual pop-up advertisements. What could be the cause?",
+        "correct_answer": "A virus or malware infection",
+        "user_answer": "Too many programs open",
+        "is_correct": false
+      },
+      {
+        "question_id": 10,
+        "question": "What is the term for a step-by-step set of instructions designed to perform a specific task?",
+        "correct_answer": "Algorithm",
+        "user_answer": "Operating System",
+        "is_correct": false
+      }
+    ]
+  },
+  "submitted_at": "2025-12-24T11:02:12.636165"
+}

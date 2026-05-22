@@ -1,0 +1,138 @@
+{
+  "quiz_id": "quiz_0d6fe451f493",
+  "domain": "Finance & Accounting",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "What is the fundamental accounting equation?",
+      "options": [
+        "Assets = Liabilities - Equity",
+        "Assets = Liabilities + Equity",
+        "Liabilities = Assets + Equity",
+        "Equity = Assets + Liabilities"
+      ],
+      "correct_answer": "Assets = Liabilities + Equity",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 2,
+      "question": "Which of the following is an asset?",
+      "options": [
+        "Accounts Payable",
+        "Sales Revenue",
+        "Cash",
+        "Rent Expense"
+      ],
+      "correct_answer": "Cash",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 3,
+      "question": "If a company has a net income of $50,000 and pays dividends of $10,000, what is the increase in retained earnings for the period?",
+      "options": [
+        "$40,000",
+        "$50,000",
+        "$60,000",
+        "$10,000"
+      ],
+      "correct_answer": "$40,000",
+      "category": "Problem-solving",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 4,
+      "question": "What does the Gross Profit represent?",
+      "options": [
+        "Total revenue minus all expenses",
+        "Revenue minus cost of goods sold",
+        "Revenue minus operating expenses",
+        "Net income after taxes"
+      ],
+      "correct_answer": "Revenue minus cost of goods sold",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 5,
+      "question": "If a company's current assets are $100,000 and its current liabilities are $50,000, what is its current ratio?",
+      "options": [
+        "0.5",
+        "2.0",
+        "1.5",
+        "50,000"
+      ],
+      "correct_answer": "2.0",
+      "category": "Analytical",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 6,
+      "question": "Which financial statement shows a company's revenues and expenses over a period of time?",
+      "options": [
+        "Balance Sheet",
+        "Income Statement",
+        "Cash Flow Statement",
+        "Statement of Changes in Equity"
+      ],
+      "correct_answer": "Income Statement",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 7,
+      "question": "Depreciation is a method of allocating the cost of an asset over its useful life. This is an example of what type of accounting principle?",
+      "options": [
+        "Matching Principle",
+        "Conservatism Principle",
+        "Revenue Recognition Principle",
+        "Full Disclosure Principle"
+      ],
+      "correct_answer": "Matching Principle",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 8,
+      "question": "A company purchases $5,000 worth of inventory on credit. How does this transaction affect the accounting equation?",
+      "options": [
+        "Assets increase by $5,000, Liabilities increase by $5,000",
+        "Assets decrease by $5,000, Liabilities decrease by $5,000",
+        "Assets increase by $5,000, Equity decreases by $5,000",
+        "Liabilities increase by $5,000, Equity increases by $5,000"
+      ],
+      "correct_answer": "Assets increase by $5,000, Liabilities increase by $5,000",
+      "category": "Analytical",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 9,
+      "question": "If a customer prepays for a service, how should this be recorded?",
+      "options": [
+        "As revenue immediately",
+        "As unearned revenue (a liability)",
+        "As an expense",
+        "As a reduction in equity"
+      ],
+      "correct_answer": "As unearned revenue (a liability)",
+      "category": "Practical Application",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": 10,
+      "question": "Which of the following is a fixed cost?",
+      "options": [
+        "Raw materials for production",
+        "Sales commissions",
+        "Rent for a factory building",
+        "Direct labor wages"
+      ],
+      "correct_answer": "Rent for a factory building",
+      "category": "Knowledge",
+      "difficulty": "easy"
+    }
+  ],
+  "created_at": "2025-12-24T10:52:34.652526",
+  "total_questions": 10
+}
